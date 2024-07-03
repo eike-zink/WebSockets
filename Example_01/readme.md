@@ -1,6 +1,6 @@
-# Ein einfaches Beispiel für einen Websocket
+# Ein erstes Beispiel für einen Websocket
 
-- [Grundlage](https://websockets.readthedocs.io/en/stable/)
+Grundlage: https://websockets.readthedocs.io/en/stable/
 
 ## Server
 

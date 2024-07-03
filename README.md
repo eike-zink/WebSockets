@@ -11,9 +11,17 @@ python -m venv env
 
 ### Aktivierung der neuen, virtuellen Umgebung
 
+Windows:
+
 ``` sh
 .\env\Scripts\activate
 ```
+
+Mac:
+
+``` sh
+source venv/bin/activate
+```s
 
 ### Installation der notwendigen Bibliotheken
 
