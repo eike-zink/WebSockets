@@ -21,7 +21,7 @@ Mac:
 
 ``` sh
 source venv/bin/activate
-```s
+```
 
 ### Installation der notwendigen Bibliotheken
 
